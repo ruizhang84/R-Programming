@@ -1,7 +1,5 @@
 # R-Programming
-*R Programming from Johns Hopkins University (Coursera)*
-
-*Programming Assignments    (May 4th - May 31st, 2014)*
+*R Programming from Johns Hopkins University (Coursera) Programming Assignments    (May 4th - May 31st, 2014)*
 
 This course covers how to use and program in R for effective data
 analysis. It covers practical issues in statistical computing:
